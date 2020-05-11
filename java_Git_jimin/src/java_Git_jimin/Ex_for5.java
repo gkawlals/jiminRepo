@@ -1,5 +1,5 @@
 package java_Git_jimin;
-
+import java.util.*;
 public class Ex_for5 {
 
 	public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Ex_for5 {
 			haq += i;
 		}
 		System.out.printf("%d \n", haq);
-		 
+		
 		int hap = 0;
 		for(int j = 501; j <= 1000; j += 2) {
 			hap += j;
